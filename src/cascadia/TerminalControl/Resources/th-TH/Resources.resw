@@ -146,7 +146,7 @@
     <comment>The displayed caption for dragging text onto a terminal.</comment>
   </data>
   <data name="SearchBox_CaseSensitivity.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve">
-    <value>Case Sensitivity</value>
+    <value>ตรงตามตัวพิมพ์ใหญ่-เล็ก</value>
     <comment>The name of the case sensitivity button on the search box control for accessibility.</comment>
   </data>
   <data name="SearchBox_SearchForwards.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve">
@@ -162,21 +162,21 @@
     <comment>The name of the text box on the search box control for accessibility. This should match "SearchBox_TextBox.PlaceholderText"</comment>
   </data>
   <data name="TerminalControl_ControlType" xml:space="preserve">
-    <value>terminal</value>
+    <value>เทอร์มินัล</value>
     <comment>The type of control that the terminal adheres to. Used to identify how a user can interact with this kind of control.</comment>
   </data>
   <data name="SearchBox_Close.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve">
-    <value>Close Search Box</value>
+    <value>ปิดกล่องค้นหา</value>
     <comment>The explanation of the search box close button used by Narrator and other screen readers.</comment>
   </data>
   <data name="TermControl_RendererFailedTextBlock.Text" xml:space="preserve">
-    <value>This terminal has encountered an issue with the graphics driver and it could not recover in time. It has been suspended.</value>
+    <value>เทอร์มินัลนี้พบปัญหากับไดรเวอร์กราฟิกและไม่สามารถกู้คืนได้ทันเวลา การทำงานจึงถูกระงับ</value>
   </data>
   <data name="TermControl_RendererRetryButton.Content" xml:space="preserve">
-    <value>Resume</value>
+    <value>ทำงานต่อ</value>
   </data>
   <data name="HowToOpenRun.Text" xml:space="preserve">
-    <value>Ctrl+Click to follow link</value>
+    <value>กด Ctrl+คลิกเพื่อเปิดลิงก์</value>
   </data>
   <data name="TermControl_NoMatch" xml:space="preserve">
     <value>ไม่พบผลลัพธ์</value>
@@ -191,7 +191,7 @@
     <comment>Will be displayed to indicate what result the user has selected, of how many total results. {0} will be replaced with the index of the current result. {1} will be replaced with the total number of results.</comment>
   </data>
   <data name="InvalidUri" xml:space="preserve">
-    <value>Invalid URI</value>
+    <value>URI ไม่ถูกต้อง</value>
     <comment>Whenever we encounter an invalid URI or URL we show this string as a warning.</comment>
   </data>
   <data name="PixelShaderNotFound" xml:space="preserve">
